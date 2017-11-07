@@ -13,7 +13,7 @@ else:
 
 test2 = os.path.exists("/home/pi/SBR_git/serial_utils.py")
     
-if test1:
+if test2:
     print("serial_utils.py is in ~/SBR_git <-- good")
 else:
     print("serial_utils.py is not in ~/SBR_git <-- bad")
