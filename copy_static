@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+cp /media/pi/BACKUPRWK2/minisegway_rpi_config/interfaces /etc/network/
+cp /media/pi/BACKUPRWK2/minisegway_rpi_config/wpa_supplicant.conf /etc/wpa_supplicant/
